@@ -20,6 +20,6 @@ Paste it onto the body or html tag in your CSS file and enjoy!
 <br>
 
 
-![gradient_example_1](https://drive.google.com/uc?export=view&id=1bGyWbDaKxY-2TaiPXJjq1aNjyi0efAek "This is sample image.")
+![gradient_example_1](https://drive.google.com/uc?export=view&id=1Et_WVFsDtI7lyaCeZPbeCPZzLWSD-hRh "This is sample image.")
 
 
