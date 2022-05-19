@@ -12,7 +12,7 @@ const background_generator = () => {
     color_right.value +
     ")";
 
-    css.textContent = body_background.style.background + ";"
+    css.textContent = "background: " + body_background.style.background + ";"
 }
 
 color_left.addEventListener("input", background_generator);
