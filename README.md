@@ -12,7 +12,7 @@ Set the color to your favorite gradient color.
 <br>
 
 **Step2.** ➡ <br>
-Copy the gradient parameter.
+Copy the gradient syntax and parameter that shows.
 <br>
 
 **Step3.** ➡ <br>
